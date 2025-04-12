@@ -1,4 +1,4 @@
-# Data Visualization using Python  
+# Turning Data into Insight: A Python Visualization Journey
 
 ## Overview  
 This repository contains a collection of Jupyter notebooks that guide you through various data visualization techniques using Python. It covers fundamental and advanced visualization methods using libraries like Matplotlib, Seaborn, Plotly, and more. The project concludes with a real-world case study on historical automobile sales data.  
